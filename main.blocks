@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="}2}}2kzBEWds;r%tiV`i" x="0" y="0"></block><block type="device_forever" id="QaJ#B42|!p^vj)@V!9Z}" x="205" y="0"><statement name="HANDLER"><block type="device_rest" id="Gw}I#xs+uT{yPej14Ua4"><value name="duration"><shadow type="device_beat" id="?oncX%2-nb+V77#Z^DtA"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_print_message" id="Jk1Pa@s:[L8d8oi1SL!|"><value name="text"><shadow type="text" id="1/!#qJg2H[XU_U6!L,gX"><field name="TEXT"></field></shadow></value><next><block type="device_show_leds" id=":ESd|z:KQs}S$${i7!Dl"><field name="LEDS">`
+        . . . . . 
+        . # . . . 
+        . . # # . 
+        . . # . # 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="RpJIbWZp6}80xrW{`qow"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . # # # 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="f:=BeQIHXgJ|U{9u!IkD"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></next></block></next></block></next></block></next></block></statement></block><block type="device_show_number" id=")UPT$V61$Glte5$(b$J9" disabled="true" x="31" y="114"><value name="number"><shadow type="math_number" id="Nn/)Hm4:a-Ig8bVZ0ZEy" disabled="true"><field name="NUM">0</field></shadow></value></block><block type="basic_show_icon" id="N|7jid^[P/(seJ-h8o7-" disabled="true" x="558" y="148"><field name="i">IconNames.Heart</field></block><block type="basic_show_icon" id="SFM#t$$~NsJaO#H,|MB4" disabled="true" x="524" y="307"><field name="i">IconNames.Heart</field></block></xml>
